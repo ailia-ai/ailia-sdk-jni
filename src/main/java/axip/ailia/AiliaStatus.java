@@ -100,6 +100,10 @@ public enum AiliaStatus {
      */
     NDIMENSION_SHAPE(-23),
 	/**
+     * Model file was loaded already.
+     */
+    ALREADY_LOADED(-24),
+	/**
      * Unknown error
      */
     OTHER_ERROR(-128);
